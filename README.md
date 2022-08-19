@@ -1,6 +1,8 @@
 # Google_Calendar_API
 
 I made this program to eliminate the tedious job of manually inputting each shift I worked into a calendar for my family to see.
-We use a shared google calendar so everyone knows when someone has something scheduled and we can plan around it.
-This program displays some of my skills using beautifulSoup4, pandas and a few other modules that come in very handy.
-I learned how to use the .gitignore file to keep my personal info to myself so now I can share alot more of my work.
+We use a shared Google Calendar so everyone knows when something is scheduled, which made this API perfect for what I was looking to 
+do. The imaplib module allowed me to get my emails from a specific label, and from there I used beautifulSoup4, pandas and datetime to clean the data so I could display it. I was able to follow the documentation on using the Google Calendar API and created a successful program. 
+
+
+
